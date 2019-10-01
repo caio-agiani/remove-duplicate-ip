@@ -1,2 +1,2 @@
-# emove-duplicate-ip
+# Remove-duplicate-ip
  Simple duplicate text remover
